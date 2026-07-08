@@ -8,7 +8,7 @@ This repository is built for entry level developers and analysts like me who wan
 
 This project is broken down into total of 3 progressive phases:
 
-### [Phase 1: Foundations](./docs/phase_1_foundations/1_system_mechanics.md)
+### [Phase 1: Foundations](./docs/phase_1_foundations/1_1_balance_sheet_mechanics.md)
 Understanding how a business measures success before writing any code.
 * The Income Statement, Balance Sheet, and Cash Flow Statement.
 * Bridging accounting profit (Net Income) to valuation cash (Unlevered Free Cash Flow).
